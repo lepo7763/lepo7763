@@ -9,5 +9,5 @@
 
 
 ## Contact:
-- Email: lzd0068 [at] auburn.edu  
+- Email: lzd0068 [at] auburn [dot] edu  
 - LinkedIn: leopolddong
